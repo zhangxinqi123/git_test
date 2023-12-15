@@ -3,10 +3,6 @@ How are you!HEAD -> master
 Fine Thank you and you?
 I am fine too
 Bye Bye!
-我是分支dev
-<<<<<<< HEAD
+我是分支d
 master也在第九行添加内容
-=======
 dev在当前文件中的第九行插入一条内容
-  
->>>>>>> dev
